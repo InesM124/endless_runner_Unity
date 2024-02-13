@@ -18,7 +18,7 @@ public class NewBehaviourScript : MonoBehaviour
 
     // Update is called once per frame
     private void Update()
-    {
+    { 
         horizentalInput = Input.GetAxis("Horizontal");
     }
 }
